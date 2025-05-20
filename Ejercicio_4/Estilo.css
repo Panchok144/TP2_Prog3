@@ -1,0 +1,13 @@
+body{
+
+    background-color: rgb(12, 209, 209);
+}
+#Calculadora{
+    text-align: center;
+}
+#calcular{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
