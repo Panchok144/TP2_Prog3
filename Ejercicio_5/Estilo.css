@@ -1,0 +1,14 @@
+body{
+
+    background-color: rgba(22, 153, 129, 0.64);
+}
+div{
+    text-decoration: underline;
+    text-align: center;
+}
+#calcular{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
