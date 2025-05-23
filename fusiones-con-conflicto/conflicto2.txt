@@ -1,1 +1,1 @@
-Base del archivo 2
+Otro cambio en archivo2 desde rama4
