@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cambio en el archivo2 en la rama3
+=======
+Otro cambio en archivo2 desde rama4
+>>>>>>> rama4-conflicto
