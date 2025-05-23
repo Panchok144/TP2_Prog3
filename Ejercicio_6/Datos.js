@@ -36,12 +36,15 @@ boton.addEventListener("click", function () {
         validar = false;
    }
 
-    validaciones = `
-    <p>El nombre y apellido no pueden estar vacíos y deben ser de un máximo de 50 caracteres.</p>
-    <p>La edad no debe ser negativa y no debe ser menor de edad.</p>
-    <p>La altura no puede ser negativa y no puede ser mayor a 230 cm.</p>
-    <p>El correo no puede estar vacío y debe contener un @.</p>
-   `;
+    validaciones = 
+    `<p>El nombre y apellido no pueden estar vacíos y deben ser de un máximo de 50 caracteres.
+
+    La edad no debe ser negativa y no debe ser menor de edad.
+
+    La altura no puede ser negativa y no puede ser mayor a 230 cm.
+
+    El correo no puede estar vacío y debe contener un @.</p> `;
+   
 
 
     
