@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cambio desde rama5
+=======
+Cambio distinto desde rama6
+>>>>>>> rama6-conflicto
